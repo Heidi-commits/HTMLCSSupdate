@@ -76,7 +76,7 @@ a:hover{
     align-items: center;
 }
 .header h1 a{
-    background: url(https://raw.githubusercontent.com/hexschool/HTMLHWSource/master/singlePage/logo.png) no-repeat hidden nowrap;
+    background: url(https://raw.githubusercontent.com/hexschool/HTMLHWSource/master/singlePage/logo.png) no-repeat;
     display: block;
     text-indent: 101%;
     overflow: hidden;
